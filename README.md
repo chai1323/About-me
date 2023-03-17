@@ -10,7 +10,8 @@ I'm chaitanya.
 
 
 .connect me:
-https://www.linkedin.com/in/chaitanya-ambati-122b3720b/
+![image](https://user-images.githubusercontent.com/83417179/225981179-31b30248-31da-40cf-bed9-202b6346c36f.png)
+
 
 
 
