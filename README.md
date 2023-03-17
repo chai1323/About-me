@@ -18,7 +18,7 @@ I'm chaitanya.
 Languages and Tools:
 
 
-https://www.cprogramming.com/        https://www.w3schools.com/cpp/
+
 
 
 
