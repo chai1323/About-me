@@ -4,7 +4,7 @@ I'm chaitanya.
 .I am currently Learning on Machine Learning
 .Reach me chaitanya.ambati2309@gmail.com
 .connect me:
-![image](https://user-images.githubusercontent.com/83417179/225971488-f006aade-56dc-49f7-8d5d-a38830cc9f37.png)
+
 
 
 
