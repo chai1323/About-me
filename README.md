@@ -4,8 +4,7 @@ I'm chaitanya.
 .I am currently Learning on Machine Learning
 .Reach me chaitanya.ambati2309@gmail.com
 .connect me:
-https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bpp3iYDxTTSmmJl1BnRCIBg%3D%3D
-
+![image](https://user-images.githubusercontent.com/83417179/225976894-be6c55b0-6d30-4df2-b6f3-046bbff5029a.png)
 
 
 
