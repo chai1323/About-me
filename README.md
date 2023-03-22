@@ -21,9 +21,9 @@ Languages and Tools:
 
 
 
-<p align ="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=geethika1129&show_icons=true&locale=en&theme=highcontrast" alt="akshara604" width = "48%"/>
+<p align ="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chai1323&show_icons=true&locale=en&theme=highcontrast" alt="chai1323" width = "48%"/>
  &nbsp;&nbsp;
- <p align="left"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethika1129&layout=compact&theme=highcontrast" width="42%"/></p>
+ <p align="left"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chai1323&layout=compact&theme=highcontrast" width="42%"/></p>
 
 
 
