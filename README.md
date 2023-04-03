@@ -10,11 +10,9 @@ I'm chaitanya.
 
 
 .connect me:
-![image](https://user-images.githubusercontent.com/83417179/225981179-31b30248-31da-40cf-bed9-202b6346c36f.png)
 
-
-in/chaitanya-ambati-122b3720b
-
+## 🔗 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/search?q=linkedin+chaitanya+ambati&oq=linkedin+chaitanya+ambati&aqs=chrome..69i57j33i160.16187j0j9&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8)
 
 Languages and Tools:
 
