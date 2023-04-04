@@ -14,7 +14,7 @@ I'm chaitanya.
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/search?q=linkedin+chaitanya+ambati&oq=linkedin+chaitanya+ambati&aqs=chrome..69i57j33i160.16187j0j9&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8)
    
-[![kaggle](https://icon-icons.com/icon/kaggle-logo/168474 style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/chaitanyaambati)
+[![kaggle](https://icon-icons.com/icon/kaggle-logo/168474? style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/chaitanyaambati)
 
 
 Languages and Tools:
