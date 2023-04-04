@@ -1,12 +1,14 @@
-Hi 
+Hi 👋
 I'm chaitanya.
-#I am currently pursuing my Btech degree|software developer| ML dev | web dev|
+#I am currently pursuing my Btech degree
+# |software developer| ML dev | web dev|
 
 
 .I am currently working on Machine Learning
 
 
-.Reach me chaitanya.ambati2309@gmail.com
+.Reach me 
+chaitanya.ambati2309@gmail.com
 
 
 .connect me:
@@ -17,9 +19,11 @@ I'm chaitanya.
 [![kaggle](https://icon-icons.com/icon/kaggle-logo/168474)](https://www.kaggle.com/chaitanyaambati)
 
 
-Languages and Tools:
-
-
+## ⚙️Languages and Tools:
+🌱 WEB DEVELOPMENT:HTML,CSS ,JAVASCRIPT
+🌱 SOFTWARE DEVELOPMENT:C,C++,PYTHON
+🌱 DATABASE: SQL
+🌱 MACHINE LEARNING:NUMPY,PANDAS,MATPLOTLIB,SKLEARN
 
 
 <p align ="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chai1323&show_icons=true&locale=en&theme=highcontrast" alt="chai1323" width = "48%"/>
