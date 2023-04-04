@@ -1,4 +1,4 @@
-#  ![QubyChanHiGIF](https://user-images.githubusercontent.com/83417179/225971133-3183c6ae-9b5c-4553-8410-b83b5737d7d2.gif)
+Hi 
 I'm chaitanya.
 #I am currently pursuing my Btech degree|software developer| ML dev | web dev|
 
